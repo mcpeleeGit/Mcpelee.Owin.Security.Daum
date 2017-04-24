@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mcpelee.Owin.Security.Daum</id>
+    <version>1.0.0</version>
+    <title>Mcpelee.Owin.Security.Daum</title>
+    <authors>mcpelee</authors>
+    <owners>mcpelee</owners>
+    <licenseUrl>https://github.com/mcpeleeGit/Mcpelee.Owin.Security.Daum/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/mcpeleeGit/Mcpelee.Owin.Security.Daum</projectUrl>
+    <iconUrl>http://www.adprint.jp/favicon.ico</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Middleware that enables an application to support Daum's OAuth 2.0 authentication workflow.</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Daum Owin</tags>
+  </metadata>
+</package>
